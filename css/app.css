@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-image: url(../images/header.jpg);
+    background-size: cover;
+    height: 400px;
+    color: #fff;
+    text-align: right;
+}
+header h1,
+header h3 {
+    margin-top: 6%
+}
+header h3 {
+    margin-top: %
+}
