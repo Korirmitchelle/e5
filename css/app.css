@@ -16,3 +16,17 @@ header h3 {
 header h3 {
     margin-top: %
 }
+.small {
+    background-color: #d1d5d6;
+    border-bottom: 2px solid #fff;
+    line-height: 60px;
+    padding: 5%;
+}
+.small p {
+    line-height: 60px;
+    color:
+}
+.big {
+    height: 100px;
+    background-color: #d1d5d6;
+}
